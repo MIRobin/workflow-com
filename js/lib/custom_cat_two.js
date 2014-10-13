@@ -1,0 +1,1 @@
+console.log("Lorem ilpsum dolor sit amet, consectetur adipisicing elit. Impedit, ullam. Nesciunt autem distinctio harum repudiandae quam, saepe voluptatibus nemo atque commodi quod expedita vero amet obcaecati quibusdam nisi, blanditiis officiis.");
